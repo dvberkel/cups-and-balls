@@ -1,5 +1,5 @@
 # cups-and-balls
-A magic trick with mobile phone
+A magic trick with mobile phones
 
 [Cups and Balls][cups-and-balls] is a magic trick that involves balls that
 
